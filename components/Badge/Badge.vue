@@ -6,7 +6,7 @@
   >
     <slot />
     <template v-if="badge">
-      {{ badge }}
+      {{ badge }}  changes
     </template>
   </span>
 </template>
