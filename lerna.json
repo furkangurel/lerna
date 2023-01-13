@@ -4,10 +4,5 @@
   "version": "independent",
   "packages": [
     "components/*"
-  ],
-  "command": {
-    "publish": {
-      "registry": "https://npm.pkg.github.com/furkangurel"
-    }
-  }
+  ]
 }
