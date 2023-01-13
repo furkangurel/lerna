@@ -1,7 +1,9 @@
 {
     "name": "@furkangurel/badge",
     "version": "0.0.0",
+    "repository": "https://github.com/furkangurel/lerna", 
     "publishConfig": {
-        "access": "public"
+     "@furkangurel:registry": "https://npm.pkg.github.com/furkangurel"
     }
+
 }
